@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "483690630728",
+    "project_id": "medquest-81996",
+    "storage_bucket": "medquest-81996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483690630728:android:59281b282a167a2f33927d",
+        "android_client_info": {
+          "package_name": "com.example.midquest2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483690630728-sru7vr07mvags5ib1pocfqrm748nmgih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizUTWD755fj7gwamaGiyqeuhgFrPizL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483690630728-sru7vr07mvags5ib1pocfqrm748nmgih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483690630728-loeot3j5mscg88qickkc55r1um21ecoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.midquest2021"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483690630728:android:cb3481fafa8a4ba933927d",
+        "android_client_info": {
+          "package_name": "com.medquest.med_quest_adm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483690630728-sru7vr07mvags5ib1pocfqrm748nmgih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizUTWD755fj7gwamaGiyqeuhgFrPizL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483690630728-sru7vr07mvags5ib1pocfqrm748nmgih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483690630728-loeot3j5mscg88qickkc55r1um21ecoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.midquest2021"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

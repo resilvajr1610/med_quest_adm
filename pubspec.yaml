@@ -1,0 +1,36 @@
+name: med_quest_adm
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^0.4.0+6
+  firebase_auth: ^0.11.1+7
+  firebase_storage: ^3.0.2
+  cloud_firestore: ^0.12.5+2
+  image_picker: ^0.6.6+4
+  brasil_fields: ^0.0.9
+  intl: ^0.16.1
+  onesignal_flutter: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/imagens/logoOficial.png
+  - assets/imagens/logoOficial1.png
+  - assets/imagens/usuario.png
